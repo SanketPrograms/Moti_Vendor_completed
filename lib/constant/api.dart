@@ -1,0 +1,24 @@
+String baseUrl = "http://moticonf.adminapp.tech/";
+
+String settingsApi = baseUrl + "vapi/settings";
+String registerApi = baseUrl + "vapi/register";
+String loginApi = baseUrl + "vapi/login";
+String verifyOtpApi = baseUrl + "vapi/verifyOtp";
+String googleLoginApi = baseUrl + "vapi/googleLogin";
+String getProfileApi = baseUrl + "vapi/getprofile";
+String updateProfileApi = baseUrl + "vapi/updateprofile";
+String changePasswordApi = baseUrl + "vapi/changepswd";
+String variantsApi = baseUrl + "vapi/variants";
+String variantsOptionApi = baseUrl + "vapi/voptions";
+String brandsApi = baseUrl + "vapi/brands";
+String categoriesApi = baseUrl + "vapi/categories";
+String subCategoriesApi = baseUrl + "vapi/subcategories";
+String viewProductsApi = baseUrl + "vapi/products";
+String addProductsApi = baseUrl + "vapi/addProduct";
+String viewOrderApi = baseUrl + "vapi/orders";
+String orderDetailsApi = baseUrl + "vapi/orderDetails";
+String homeApi = baseUrl + "vapi/home";
+String notificationApi = baseUrl + "vapi/notifications";
+String registerDeliveryBoyApi = baseUrl + "vapi/registerDboy";
+String viewDeliveryBoy = baseUrl + "vapi/dboys";
+String assignDeliveryBoyApi = baseUrl + "vapi/assignDboy";
